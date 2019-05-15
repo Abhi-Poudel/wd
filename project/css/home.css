@@ -1,0 +1,56 @@
+/* all home css*/
+/* images css*/
+
+body{background-color: #fafbf7;
+}
+
+#swim, #hike, #mt_bike {
+  border-radius: 10%;
+  
+}
+
+#swim:hover, #hike:hover, #mt_bike:hover{
+  box-shadow: 0 0 10px 12px rgba(0, 140, 186, 0.5);
+  
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+
+.begin{
+	text-align: center;
+	 color:grey
+}
+ 
+ .take{
+ 	text-align: center;
+}
+
+  .excite{
+ 	text-decoration: underline; 
+ 	text-decoration-color: grey;
+ 	text-align: center;
+ }	
+/*h4 tag is only used on image name */
+ .describe{
+ 	text-decoration: underline; 
+ 	text-decoration-color: grey;
+ 	text-align: center;
+ }	
+ /*Defining all photo*/
+ .define{
+ 	line-height: 30px;
+ 	text-align: justify;
+ }
+
+ .footer{
+ 	height: 60px;
+ 	text-align: center
+ }
+
+ #carouselExampleControls img{
+	height: 750px;
+}
+
+

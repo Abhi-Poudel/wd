@@ -1,0 +1,27 @@
+
+
+ /* all about css*/
+
+ body{
+ background-color: #fafbf7;
+}
+
+.list_about{
+	color: green;
+	line-height: 70px;
+	
+}
+.defining_js{
+	text-decoration: underline; 
+ 	text-decoration-color: grey;
+ 	text-align: center;
+}
+.define{
+ 	line-height: 30px;
+ 	text-align: justify;
+ }
+
+.footer{
+ 	height: 60px;
+ 	text-align: center
+ }
